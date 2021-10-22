@@ -1,0 +1,29 @@
+body {
+color:white;
+background-color:black;
+background-image:url(fond.jpg);
+background-repeat:no-repeat;
+background-position:right top;
+}
+
+h1{
+font-family: imperator, Verdana, sans-serif;
+}
+
+h3{
+font-family: imperator, Verdana, sans-serif;
+}
+
+p{
+font-family: regis, Verdana, sans-serif;
+}
+
+@font-face {
+    font-family: 'imperator';
+    src: url('imperator.ttf');
+}
+
+@font-face {
+    font-family: 'regis';
+    src: url('regis.ttf');
+}
